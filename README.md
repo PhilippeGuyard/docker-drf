@@ -9,6 +9,7 @@ This is a boilerplate project for quickly getting started with building RESTful 
 - Custom User Model
 - JWT Authentication
 - Swagger and drf-spectacular for API documentation
+- Uses a custom Admin URL (from env. vars)
 
 ## Prerequisites
 

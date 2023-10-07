@@ -165,3 +165,5 @@ DJOSER = {
     },
     'TOKEN_MODEL': None,    # Necessary for JWT
 }
+
+ADMIN_URL = os.getenv('DJANGO_ADMIN_URL', 'admin/')
